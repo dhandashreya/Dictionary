@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 # load JSON data
-data = json.load(open("dict_data.json"))
+data = json.load(open("data_dict.json"))
 print("WELCOME TO ENGLISH DICTIONARY")
 
 
